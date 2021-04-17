@@ -1,0 +1,5 @@
+* https://oeis.org/A059756
+* https://www.asciitohex.com/
+* https://lygeros.org/erdoswoods/
+* https://rot13.com/
+* https://blog.avast.com/mr.-robot-review-eps2.9_pyth0n-pt1.p7z
